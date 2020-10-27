@@ -25,7 +25,7 @@
     "id": 3,
     "icon": "fa fa-play-circle",
     "slug": "conversion_tipos",
-    "title": "1.2 Conversión: tipos",
+    "title": "1.2 Conversión",
     "breadcrumb": ["Inicio","Conversión: tipos"],
     "path": "pages/tema-1-2.html"    
   },
