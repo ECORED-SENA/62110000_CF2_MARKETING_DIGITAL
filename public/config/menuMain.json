@@ -7,7 +7,7 @@
   },       
   {
     "id": 1,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "comportamiento_consumidor",
     "title": "1. Comportamiento del consumidor",
     "breadcrumb": ["Inicio","Comportamiento del consumidor"],
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "calendario_actuacion",
     "title": "1.1 Calendario de actuación",
     "breadcrumb": ["Inicio","Comportamiento del consumidor"],
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "conversion_tipos",
     "title": "1.2 Conversión: tipos",
     "breadcrumb": ["Inicio","Conversión: tipos"],
@@ -39,7 +39,7 @@
   },  
   {
     "id": 5,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "analitica_datos",
     "title": "2. Analítica de datos",
     "breadcrumb": ["Inicio","Estrategias de marketing digital"],
@@ -63,7 +63,7 @@
   },
   {
     "id": 8,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "indicadores",
     "title": "2.3 Indicadores clave de rendimiento,ratios KPI",
     "breadcrumb": ["Inicio","Indicadores clave de rendimiento,ratios KPI"],
